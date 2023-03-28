@@ -1,0 +1,8 @@
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\bin\Debug\27032023.exe.config
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\bin\Debug\27032023.exe
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\bin\Debug\27032023.pdb
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\obj\Debug\27032023.csproj.AssemblyReference.cache
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\obj\Debug\27032023.csproj.SuggestedBindingRedirects.cache
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\obj\Debug\27032023.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\obj\Debug\27032023.exe
+D:\GeekBrains\HomeWork\VSC#\HW_5\27032023\27032023\obj\Debug\27032023.pdb
