@@ -14,3 +14,11 @@ D:\GeekBrains\HomeWork\VSC#\HW5\27032023\obj\Debug\HW6.csproj.SuggestedBindingRe
 D:\GeekBrains\HomeWork\VSC#\HW5\27032023\obj\Debug\HW6.csproj.CoreCompileInputs.cache
 D:\GeekBrains\HomeWork\VSC#\HW5\27032023\obj\Debug\27032023.exe
 D:\GeekBrains\HomeWork\VSC#\HW5\27032023\obj\Debug\27032023.pdb
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\bin\Debug\27032023.exe.config
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\bin\Debug\27032023.exe
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\bin\Debug\27032023.pdb
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\obj\Debug\HW6.csproj.AssemblyReference.cache
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\obj\Debug\HW6.csproj.SuggestedBindingRedirects.cache
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\obj\Debug\27032023.exe
+D:\GeekBrains\HomeWork\VStudioC#\HW5\27032023\obj\Debug\27032023.pdb
